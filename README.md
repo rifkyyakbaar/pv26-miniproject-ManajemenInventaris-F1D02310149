@@ -1,4 +1,4 @@
-# PV26 Mini Project - Inventaris
+# PV26 Mini Project - Manajemen Inventaris
 
 Aplikasi manajemen inventaris menggunakan PySide6, SQLite, dan QSS eksternal.
 
