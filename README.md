@@ -10,6 +10,7 @@ Aplikasi manajemen inventaris menggunakan PySide6, SQLite, dan QSS eksternal.
 - Dialog terpisah untuk tambah / edit barang
 - Menu `Tentang` menampilkan nama aplikasi, deskripsi, nama mahasiswa, dan NIM
 - Styling menggunakan `style.qss`
+- Fitur Tambahan (Reset Database): Menu khusus untuk mengosongkan seluruh isi tabel di database secara instan guna mempermudah proses pengujian aplikasi.
 
 ## Instalasi
 
