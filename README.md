@@ -1,6 +1,6 @@
 # PV26 Mini Project - Manajemen Inventaris
 
-Aplikasi manajemen inventaris menggunakan PySide6, SQLite, dan QSS eksternal.
+Aplikasi manajemen inventaris adalah aplikasi berbasis desktop yang dikembangkan menggunakan Python untuk membantu pencatatan dan pengelolaan data barang. Aplikasi ini menerapkan arsitektur *Separation of Concerns* (SoC) yang memisahkan antarmuka pengguna (View), logika sistem (Controller), dan database (Model) agar kode lebih rapi, aman, dan mudah dipelihara. Aplikasi ini menggunakan PySide6, SQLite, dan QSS eksternal.
 
 ## Fitur
 
@@ -12,7 +12,7 @@ Aplikasi manajemen inventaris menggunakan PySide6, SQLite, dan QSS eksternal.
 - Styling menggunakan `style.qss`
 - Fitur Tambahan (Reset Database): Menu khusus untuk mengosongkan seluruh isi tabel di database secara instan guna mempermudah proses pengujian aplikasi.
 
-## Instalasi
+## Instalasi/Cara Menjalankan Aplikasi
 
 1. Buka Terminal di VS Code (Ctrl + ` atau View > Terminal).
 2. Buat Virtual Environment: `python -m venv venv`
